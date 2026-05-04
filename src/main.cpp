@@ -1,11 +1,12 @@
 
-#include "auth.h"
-#include "func_module/func.h"
-#include "menu/CMenu.h"
-#include "menu/CMenuItem.h"
-#include "models/product/product.h"
-#include "models/supplier/supplier.h"
-#include "models/worker/worker.h"
+#include "include/auth.h"
+#include "include/func.h"
+#include "include/CMenu.h"
+#include "include/CMenuItem.h"
+#include "include/product.h"
+#include "include/supplier.h"
+#include "include/worker.h"
+#include "include/user.h"
 #include <iostream>
 #include <string>
 

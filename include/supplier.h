@@ -1,5 +1,5 @@
 #pragma once
-#include "../user/user.h"
+#include "user.h"
 #include <string>
 #include <iostream>
 using namespace std;

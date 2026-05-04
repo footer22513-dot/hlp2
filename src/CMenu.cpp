@@ -1,4 +1,4 @@
-#include "CMenu.h"
+#include "include/CMenu.h"
 #include <iostream>
 
 namespace GNA {

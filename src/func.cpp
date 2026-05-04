@@ -1,8 +1,8 @@
-#include "func.h"
-#include "../models/product/product.h"
-#include "../models/supplier/supplier.h"
-#include "../models/user/user.h"
-#include "../models/worker/worker.h"
+#include "include/func.h"
+#include "include/product.h"
+#include "include/supplier.h"
+#include "include/user.h"
+#include "include/worker.h"
 #include <iostream>
 #include <vector>
 using namespace std;
